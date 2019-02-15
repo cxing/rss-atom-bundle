@@ -4,7 +4,7 @@
         <title>RSS Title</title>
         <description>This is an example of an RSS feed</description>
         <link>http://www.someexamplerssdomain.com/main.html</link>
-        <pubDate>Mon, 06 Sep 2009 16:45:00 GMT</pubDate>
+        <pubDate>Mon, 06 Sep 2010 16:45:00 GMT</pubDate>
         <ttl>1800</ttl>
 
         <item>
@@ -13,6 +13,15 @@
             <link>http://www.wikipedia.org/</link>
             <guid>unique string per item</guid>
             <pubDate>Mon, 06 Sep 2009 16:45:00 GMT</pubDate>
+            <author>John Doe</author>
+        </item>
+        
+        <item>
+            <title>Example entry - 1</title>
+            <description>Here is some text containing an interesting description. - 1</description>
+            <link>http://www.wikipedia.org/</link>
+            <guid>unique string per item</guid>
+            <pubDate>Mon, 06 Sep 2010 16:45:00 GMT</pubDate>
             <author>John Doe</author>
         </item>
 

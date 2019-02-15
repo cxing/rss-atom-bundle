@@ -9,7 +9,7 @@
 
         <item>
             <title>Example entry</title>
-            <description>Here is some text containing an interesting description. <br /><>br /
+            <description>Here is some text containing an interesting description. <br /><br />
             Here is some text containing an interesting description. - update</description>
             <link>http://www.wikipedia.org/</link>
             <guid>unique string per item - 1</guid>

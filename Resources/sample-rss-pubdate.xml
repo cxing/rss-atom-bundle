@@ -9,10 +9,11 @@
 
         <item>
             <title>Example entry</title>
-            <description>Here is some text containing an interesting description.</description>
+            <description>Here is some text containing an interesting description. <br /><>br /
+            Here is some text containing an interesting description. - update</description>
             <link>http://www.wikipedia.org/</link>
             <guid>unique string per item - 1</guid>
-            <pubDate>Mon, 06 Sep 2009 16:45:00 +0000</pubDate>
+            <pubDate>Mon, 06 Sep 2018 16:45:00 +0000</pubDate>
         </item>
         
         <item>

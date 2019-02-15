@@ -4,7 +4,7 @@
         <title>RSS Title</title>
         <description>This is an example of an RSS feed</description>
         <link>http://www.someexamplerssdomain.com/main.html</link>
-        <pubDate>Mon, 06 Sep 2010 16:45:00 GMT</pubDate>
+        <pubDate>Mon, 06 Sep 2018 16:45:00 +0000</pubDate>
         <ttl>1800</ttl>
 
         <item>
